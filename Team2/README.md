@@ -15,8 +15,9 @@
 
 * 사용보드 : Raspberry Pi 3  
 * 운영체제 : Raspbian Jessie 16.05.27  
-* 하드웨어 : Half Mirror (R70 : T30, A3 size)  
-* Monitor : HDMI cable, 12~18 inch  
+* 하드웨어 : Half Mirror (R70 : T30, A3 size), Monitor(HDMI cable, 12~18 inch)  
+* Server : Node.js  
+* Client : HTML, CSS, Javascript, jQuery, Angular.js, Electron.js  
 
 *** 
 
@@ -55,6 +56,12 @@
 ![](Reference/activity-diagram-1.png)  
 ![](Reference/activity-diagram-2.png)  
 ![](Reference/activity-diagram-3.png)  
+
+***
+
+### Reference  
+
+https://github.com/evancohen/smart-mirror
 
 ***
 
