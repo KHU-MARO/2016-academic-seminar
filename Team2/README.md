@@ -4,6 +4,8 @@
 
 디스플레이를 통해 사용자의 거울 속에서 정보 제공 & 음성인식 기능  
 
+![](Reference/smartmirror.jpg)
+
 * 조장 : 김경륜(11학번)  
 * 조원 : 김재우(13학번), 권수민(14학번), 배홍빈(16학번), 황재윤(16학번)  
 
@@ -39,4 +41,23 @@
 1. 아침에 준비하느라 늦는 일이 줄어들 것이고, 이후에 일정까지 생각하면서 준비할 수있어서 시간을 더 효율적으로 사용 할 수 있을 것이다.  
 2. 하루의 시작을 자신이 좋아하는 음악과 함께하면서 기분이 좋아지고 이후에 일정에긍정적인 영향을 줄 수 있다.  
 3. 나가기 전에 날씨정보를 미리 알 수 있어서 미리 대비할 수 있다.  
- 
+
+***
+
+### Usecase Diagram  
+
+![](Reference/use-case-diagram.png)  
+
+*** 
+
+### Activity Diagram  
+
+![](Reference/activity-diagram-1.png)  
+![](Reference/activity-diagram-2.png)  
+![](Reference/activity-diagram-3.png)  
+
+***
+
+### 발표자료  
+
+[2조 스마트미러 발표자료](PPT/smart-mirror.pdf)
