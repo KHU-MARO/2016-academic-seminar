@@ -4,7 +4,7 @@
 
 아두이노와 안드로이드 어플리케이션의 블루투스 통신을 통한 스마트홈 시스템  
 
-![](PPT/smarthome.PNG)
+![](https://github.com/KHU-MARO/2016-academic-seminar/blob/master/Team1/PPT/smarthome.png?raw=true)
 
 * 조장 : 김지수(14학번)  
 * 조원 : 김동현(13학번), 조준호(13학번), 민채현(16학번), 정경훈(16학번)  
@@ -54,4 +54,4 @@
 ### 발표자료  
 
 [2조 스마트미러 발표자료](PPT/team1.pdf)  
-[동작 영상](team1-video.wmv)
+[동작 영상](PPT/team1-video.wmv)
